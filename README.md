@@ -1,8 +1,8 @@
 # Coins-Price-Python-API
 Coins-Price (Cotação de moedas) é um projeto de aplicação de Bibliotecas e API em Python
 
-![O programa rodando](./img/run-python)
-![O codigo do programa](./img/code-coin-python)
+![O programa rodando](./img/run-python.png)
+![O codigo do programa](./img/code-coin-python.png)
 
 
 ## Sobre
