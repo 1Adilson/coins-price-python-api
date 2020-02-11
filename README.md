@@ -34,7 +34,7 @@ pip install requests
 ```
 #### 2- Requisitando a API
 <ul>
-    <li>Tive a tarefa de procurar uma API de cotação em tempo real de forma gratuita, e acabei encontrando  a [AwesomeAPI](https://docs.awesomeapi.com.br) que forneceu de forma gratuita a API.</li>
+    <li>Tive a tarefa de procurar uma API de cotação em tempo real de forma gratuita, e acabei encontrando          a [AwesomeAPI](https://docs.awesomeapi.com.br) que forneceu de forma gratuita a API.</li>
     <li>Utilizei a ferramenta get e fiz a requisição para a AwesomeAPI como o exemplo abaixo:</li>
 
 ```
@@ -44,7 +44,7 @@ eq = requests.get('https://economia.awesomeapi.com.br/all/USD-BRL,BTC-BRL,EUR-BR
 #### 3- Utilizando o JSON
 <ul>
     <li>Depois de tanto ouvir falar do famoso JSON, finalmente tive a oportunidade de utilizá-lo.</li>
-    <li>Depois de  importá-lo, criei uma variável chamada <i>cotacao</i> e lá com o comando <i>.jsonloads()<i> do JSON consegui printar de forma certa a API.</li>
+    <li>Depois de  importá-lo, criei uma variável chamada <i>cotacao</i> e lá com o comando <i>.jsonloads()     <i> do JSON consegui printar de forma certa a API.</li>
 </ul>
 
 ```
