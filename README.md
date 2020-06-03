@@ -99,7 +99,7 @@ print('Valor:', cotacao['EUR']['high'])                 #A cotação da moeda.
 </ul>
 
 ```
-while True:                                 # Lopping para que o algoritmo atualize os calores das moedas.
+while True:                                 # Lopping para que o algoritmo atualize os valores das moedas.
 ```
 
 <ul>
